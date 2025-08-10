@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_events"
+        android:icon="@drawable/categ"
+        android:title="@string/events"
+        android:enabled="true" />
+
+    <item
+        android:id="@+id/nav_calendar"
+        android:icon="@drawable/cal"
+        android:title="@string/calendar"
+        android:enabled="true" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/pfp_app"
+        android:title="@string/profile"
+        android:enabled="true" />
+
+</menu>
